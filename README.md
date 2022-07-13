@@ -29,6 +29,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kb5134&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </p>
 
-  <img width='700' height='500' src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
+  <img width='300' height='300' src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
 
 </div>

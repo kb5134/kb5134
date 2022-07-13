@@ -1,16 +1,30 @@
-### Hi there 👋
+### Ola, me chamo Allef Fressatto
+Bem vindo ao meu perfil no github👋
 
-<!--
-**kb5134/kb5134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭   Atualmente trabalho no setor de suporte em uma empresa de e-commerce.
+- 🧑‍💻 Estudando desenvolvimento web com flask e um pouco de Magento
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> </div>
+ 
+ Contatos:
+ <div>
+<a href="https://www.instagram.com/kb_allef/" target=target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:frrssatto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/allef-fressatto-958aa0169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> <br/>
+
+<div>
+<a href="https://github.com/kb5134">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kb5134&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kb5134&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<br/><br/>
+
+
+<p align="center">
+  <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+</p>

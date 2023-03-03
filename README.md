@@ -2,8 +2,8 @@
 <h4>Bem vindo ao meu perfil no github👋 </h4>
 
 
-- 🔭   Atualmente trabalho no setor de suporte em uma empresa de e-commerce.
-- 🧑‍💻 Estudando desenvolvimento web com flask e um pouco de Magento
+- 🔭   Atualmente trabalho como desenvolvedor web, desenvolvendo aplicações e serviços com django e js
+- 🧑‍💻 Estudando desenvolvimento web e focando nos frameworks django e flask
 
 <div align='center'>
   <p>
